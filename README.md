@@ -99,7 +99,7 @@ TechVerseStore-ReactNative
 ### 🔍 Search Functionality
 
 <p align="center">
-  <img src="screenshots/search.png" width="280"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/5a8bf5990a05bf326c02ac7be94b3d80c3ca0c37/Search.jpeg" width="280"/>
 </p>
 
 ---
