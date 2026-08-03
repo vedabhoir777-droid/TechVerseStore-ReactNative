@@ -67,9 +67,9 @@ TechVerseStore-ReactNative
 
 ---
 
-# 📸 App Screenshots
+## 📸 App Screenshots
 
-## 🔐 Authentication
+### 🔐 Authentication
 
 <p align="center">
   <img src="screenshots/login.png" width="280"/>
@@ -78,7 +78,7 @@ TechVerseStore-ReactNative
 
 ---
 
-## 🏠 Home
+### 🏠 Home
 
 <p align="center">
   <img src="screenshots/home1.png" width="280"/>
@@ -87,7 +87,7 @@ TechVerseStore-ReactNative
 
 ---
 
-## 🛍️ Shop
+### 🛍️ Shop
 
 <p align="center">
   <img src="screenshots/shop1.png" width="280"/>
@@ -96,13 +96,20 @@ TechVerseStore-ReactNative
 
 ---
 
-## ➕
+### 🔍 Search Functionality
+
+<p align="center">
+  <img src="screenshots/search.png" width="280"/>
+</p>
+
+---
+
+### ➕ Add Product
 
 <p align="center">
   <img src="screenshots/add1.png" width="280"/>
   <img src="screenshots/add2.png" width="280"/>
 </p>
-
 ---
 
 # 🚀 Installation
