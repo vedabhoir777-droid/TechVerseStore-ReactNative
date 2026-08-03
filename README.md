@@ -73,7 +73,7 @@ TechVerseStore-ReactNative
 
 <p align="center">
   <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/3d4138abc5c3410e7c58b431c3924a5ea4c34a70/Login.jpeg" width="280"/>
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/176f6d778a3237b7698da7d33387f487ccbbe96e/Signup.jpeg" width="20"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/176f6d778a3237b7698da7d33387f487ccbbe96e/Signup.jpeg" width="250"/>
 </p>
 
 ---
