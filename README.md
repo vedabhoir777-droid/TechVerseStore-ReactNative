@@ -1,50 +1,146 @@
-# Welcome to your Expo app 👋
+# 🛍️ TechVerse Store - React Native E-Commerce App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-0.7x-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Expo-SDK%2054-black?logo=expo" />
+  <img src="https://img.shields.io/badge/Supabase-Backend-green?logo=supabase" />
+  <img src="https://img.shields.io/badge/Platform-Android-success" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+</p>
 
-## Get started
+---
 
-1. Install dependencies
+## 📱 About the Project
 
-   ```bash
-   npm install
-   ```
+**TechVerse Store** is a modern React Native e-commerce mobile application developed using **React Native (Expo)** and **Supabase**.
 
-2. Start the app
+The application provides a clean, intuitive shopping experience where users can browse products, search items, filter by category, and manage products with a beautiful Material-inspired interface.
 
-   ```bash
-   npx expo start
-   ```
+This project was developed as part of my React Native learning journey and portfolio.
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+# ✨ Features
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 🔐 User Authentication (Login & Sign Up)
+- 🏠 Beautiful Home Screen
+- 🔍 Product Search
+- 📂 Category Filtering
+- 🛒 Product Listing
+- ➕ Add New Products
+- ❤️ Wishlist Icon
+- 📱 Responsive Mobile UI
+- ☁️ Supabase Database Integration
+- ⚡ Fast Performance with Expo
+- 🎨 Modern Material Design Interface
 
-## Get a fresh project
+---
 
-When you're ready, run:
+# 🛠️ Tech Stack
 
-```bash
-npm run reset-project
+| Technology | Purpose |
+|------------|----------|
+| React Native | Mobile App Development |
+| Expo | Development Environment |
+| JavaScript | Programming Language |
+| Supabase | Backend & Database |
+| React Navigation | Navigation |
+| Expo Vector Icons | Icons |
+| AsyncStorage | Local Storage |
+
+---
+
+# 📂 Project Structure
+
+```text
+TechVerseStore-ReactNative
+│
+├── assets/
+├── components/
+├── screens/
+├── navigation/
+├── services/
+├── supabase/
+├── App.js
+└── package.json
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+# 📸 App Screenshots
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🔐 Authentication
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+<p align="center">
+  <img src="screenshots/login.png" width="280"/>
+  <img src="screenshots/signup.png" width="280"/>
+</p>
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 🏠 Home
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<p align="center">
+  <img src="screenshots/home1.png" width="280"/>
+  <img src="screenshots/home2.png" width="280"/>
+</p>
+
+---
+
+## 🛍️ Shop
+
+<p align="center">
+  <img src="screenshots/shop1.png" width="280"/>
+  <img src="screenshots/shop2.png" width="280"/>
+</p>
+
+---
+
+## ➕
+
+<p align="center">
+  <img src="screenshots/add1.png" width="280"/>
+  <img src="screenshots/add2.png" width="280"/>
+</p>
+
+---
+
+# 🚀 Installation
+
+```bash
+git clone https://github.com/yourusername/TechVerseStore-ReactNative.git
+
+cd TechVerseStore-ReactNative
+
+npm install
+
+npx expo start
+```
+
+---
+
+# 📌 Future Improvements
+
+- ❤️ Wishlist Functionality
+- 🛒 Shopping Cart
+- 💳 Payment Gateway
+- 📦 Order History
+- ⭐ Product Reviews
+- 🔔 Push Notifications
+- 🌙 Dark Mode
+
+---
+
+# 👩‍💻 Developer
+
+**Vedanti Bhoir**
+
+Diploma in Artificial Intelligence & Machine Learning
+
+React Native Developer | AI & ML Student
+
+---
+
+# ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub.
