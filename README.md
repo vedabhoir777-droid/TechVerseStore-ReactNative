@@ -107,7 +107,7 @@ TechVerseStore-ReactNative
 ### ➕ Add Product
 
 <p align="center">
-  <img src="screenshots/add1.png" width="280"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/7e6d66421ae450ae3d8a9374339af35586c75180/Add_1.jpeg" width="280"/>
   <img src="screenshots/add2.png" width="280"/>
 </p>
 ---
