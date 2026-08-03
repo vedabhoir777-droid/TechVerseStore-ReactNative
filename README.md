@@ -108,7 +108,7 @@ TechVerseStore-ReactNative
 
 <p align="center">
   <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/7e6d66421ae450ae3d8a9374339af35586c75180/Add_1.jpeg" width="280"/>
-  <img src="screenshots/add2.png" width="280"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/b862c513c54bf7bda58648e92c2c80e4c4f5e3e9/Add_2.jpeg" width="280"/>
 </p>
 ---
 
