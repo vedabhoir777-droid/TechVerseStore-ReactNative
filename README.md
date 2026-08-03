@@ -81,7 +81,7 @@ TechVerseStore-ReactNative
 ### 🏠 Home
 
 <p align="center">
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/d97002276ab7c386b08bab2a3166c9416e1a6b39/Home_screen.jpeg" width="280"/>
+  ![image alt]("https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/d97002276ab7c386b08bab2a3166c9416e1a6b39/Home_screen.jpeg")
 </p>
 
 ---
