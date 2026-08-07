@@ -54,17 +54,23 @@ This project was developed as part of my React Native learning journey and portf
 
 ```text
 TechVerseStore-ReactNative
-│
+├── app/
+│   ├── (tabs)/
+│   ├── _layout.tsx
+│   ├── index.tsx
+│   ├── login.tsx
+│   ├── signup.tsx
+│   └── modal.tsx
 ├── assets/
 ├── components/
-├── screens/
-├── navigation/
-├── services/
-├── supabase/
-├── App.js
-└── package.json
-```
-
+├── constants/
+├── hooks/
+├── lib/
+│   └── supabase.js
+├── scripts/
+├── app.json
+├── package.json
+└── README.md
 ---
 
 ## 📸 App Screenshots
