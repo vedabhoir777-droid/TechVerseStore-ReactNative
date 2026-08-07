@@ -106,6 +106,7 @@ TechVerseStore-ReactNative
 <p align="center">
   <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/9bb4d29b085ed6a598cb5062161a31c4cacbf463/Add_screen.jpeg" width="900"/>
 </p>
+
 ---
 
 # 🚀 Installation
@@ -119,19 +120,6 @@ npm install
 
 npx expo start
 ```
-
----
-
-# 📌 Future Improvements
-
-- ❤️ Wishlist Functionality
-- 🛒 Shopping Cart
-- 💳 Payment Gateway
-- 📦 Order History
-- ⭐ Product Reviews
-- 🔔 Push Notifications
-- 🌙 Dark Mode
-
 ---
 
 # 👩‍💻 Developer
