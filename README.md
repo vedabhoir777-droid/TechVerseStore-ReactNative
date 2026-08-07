@@ -96,7 +96,7 @@ TechVerseStore-ReactNative
 ### 🔍 Search Functionality
 
 <p align="center">
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/99a7106e9a0fce5d4cafe0d7ad90718b56a4becd/shop_search.jpeg" width="500"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/99a7106e9a0fce5d4cafe0d7ad90718b56a4becd/shop_search.jpeg" width="300"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@ TechVerseStore-ReactNative
 ### ➕ Add Product
 
 <p align="center">
-  <img src="" width="900"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/9bb4d29b085ed6a598cb5062161a31c4cacbf463/Add_screen.jpeg" width="900"/>
 </p>
 ---
 
