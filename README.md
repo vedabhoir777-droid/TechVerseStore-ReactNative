@@ -72,7 +72,7 @@ TechVerseStore-ReactNative
 ### 🔐 Authentication
 
 <p align="center">
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/c94db96b2d3241949db7236236bb4b40cc04adf3/Login_signup.jpeg" width="90%"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/c94db96b2d3241949db7236236bb4b40cc04adf3/Login_signup.jpeg" width="900"/>
 </p>
 
 ---
