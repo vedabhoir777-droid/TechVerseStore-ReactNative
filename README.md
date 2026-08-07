@@ -71,6 +71,8 @@ TechVerseStore-ReactNative
 ├── app.json
 ├── package.json
 └── README.md
+```
+
 ---
 
 ## 📸 App Screenshots
