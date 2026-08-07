@@ -137,9 +137,3 @@ npx expo start
 Diploma in Artificial Intelligence & Machine Learning
 
 React Native Developer | AI & ML Student
-
----
-
-# ⭐ Support
-
-If you like this project, please consider giving it a ⭐ on GitHub.
