@@ -80,7 +80,7 @@ TechVerseStore-ReactNative
 ### 🏠 Home
 
 <p align="center">
- <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/2db51e1ec94319fa1fe78d1b9e863543aa15aa2b/Home_screen.jpeg" width="90%"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/main/assets/mockups/App_Mockup_Collage.png" width="900"/>
 </p>
 
 ---
@@ -88,8 +88,7 @@ TechVerseStore-ReactNative
 ### 🛍️ Shop
 
 <p align="center">
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/ca0a17f9c41e7e1bc5d4de9e4411d1676782a5b3/Shop_1.jpeg" width="280"/>
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/bdf9fbda2486c9946dbe2fd529a143eaa1b8612c/Shop_2.jpeg" width="280"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/main/assets/mockups/App_Mockup_Collage.png" width="900"/>
 </p>
 
 ---
@@ -97,7 +96,7 @@ TechVerseStore-ReactNative
 ### 🔍 Search Functionality
 
 <p align="center">
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/5a8bf5990a05bf326c02ac7be94b3d80c3ca0c37/Search.jpeg" width="280"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/main/assets/mockups/App_Mockup_Collage.png" width="900"/>
 </p>
 
 ---
@@ -105,8 +104,7 @@ TechVerseStore-ReactNative
 ### ➕ Add Product
 
 <p align="center">
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/7e6d66421ae450ae3d8a9374339af35586c75180/Add_1.jpeg" width="280"/>
-  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/b862c513c54bf7bda58648e92c2c80e4c4f5e3e9/Add_2.jpeg" width="280"/>
+  <img src="https://github.com/vedabhoir777-droid/TechVerseStore-ReactNative/blob/main/assets/mockups/App_Mockup_Collage.png" width="900"/>
 </p>
 ---
 
